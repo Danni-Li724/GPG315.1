@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Button name="HelloButton" text="Hello" />
+    <ui:Button name="LogSandboxButton" text="Log Sandbox Sprites" />
+    <ui:Label name="StatusLabel" text="press a button to test" />
+    <ui:ScrollView name="ResultsList" />
+</ui:UXML>
